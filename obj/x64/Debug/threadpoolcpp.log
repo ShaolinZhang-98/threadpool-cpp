@@ -1,0 +1,12 @@
+﻿  正在验证源
+  正在将源远程复制到“101.42.156.197”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  ThreadPool.cpp
+E:\C++学习\线程池实现\threadpoolcpp\ThreadPool.cpp(151,15): warning : deleting ‘void*’ is undefined [enabled by default]
+E:\C++学习\线程池实现\threadpoolcpp\ThreadPool.cpp(151,15): warning :    delete task.arg;
+E:\C++学习\线程池实现\threadpoolcpp\ThreadPool.cpp(151,15): warning :                ^
+  正在链接对象
+  threadpoolcpp.vcxproj -> E:\C++学习\线程池实现\threadpoolcpp\bin\x64\Debug\threadpool_cpp.out
